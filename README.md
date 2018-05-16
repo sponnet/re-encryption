@@ -16,8 +16,11 @@ Poor man's re-encryption.
 
 # Usage
 
-`npm install`
-`node index.js`
+```
+npm install
+node index.js
+```
+
 
 
 
