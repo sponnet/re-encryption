@@ -14,5 +14,10 @@ Poor man's re-encryption.
 - Bob uses his private key to decrypt the AES key
 - Bob uses the AES key to decrypt Alice's initial data
 
+# Usage
+
+`npm install`
+`node index.js`
+
 
 
