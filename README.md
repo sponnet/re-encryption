@@ -6,7 +6,7 @@ Poor man's re-encryption.
 
 - Alice generates data
 - Alice encrypts data using an AES key only known to Alice
-- Alice publishes data on a public network
+- Alice publishes encrypted data on a public network
 - Bob wants access to the data
 - Bob sends his pubkey to Alice
 - Alice encrypts the AES key with Bob's pubkey
